@@ -1,0 +1,11 @@
+C:\Users\selim\Desktop\Görsel Programlama Proje\SiteElmak\bin\Debug\SiteElmak.exe.config
+C:\Users\selim\Desktop\Görsel Programlama Proje\SiteElmak\bin\Debug\SiteElmak.exe
+C:\Users\selim\Desktop\Görsel Programlama Proje\SiteElmak\bin\Debug\SiteElmak.pdb
+C:\Users\selim\Desktop\Görsel Programlama Proje\SiteElmak\obj\Debug\SiteElmak.csproj.AssemblyReference.cache
+C:\Users\selim\Desktop\Görsel Programlama Proje\SiteElmak\obj\Debug\SiteElmak.Form1.resources
+C:\Users\selim\Desktop\Görsel Programlama Proje\SiteElmak\obj\Debug\SiteElmak.Properties.Resources.resources
+C:\Users\selim\Desktop\Görsel Programlama Proje\SiteElmak\obj\Debug\SiteElmak.csproj.GenerateResource.cache
+C:\Users\selim\Desktop\Görsel Programlama Proje\SiteElmak\obj\Debug\SiteElmak.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\Görsel Programlama Proje\SiteElmak\obj\Debug\SiteElmak.exe
+C:\Users\selim\Desktop\Görsel Programlama Proje\SiteElmak\obj\Debug\SiteElmak.pdb
+C:\Users\selim\Desktop\Görsel Programlama Proje\SiteElmak\obj\Debug\SiteElmak.Form2.resources
